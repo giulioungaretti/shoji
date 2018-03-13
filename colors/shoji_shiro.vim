@@ -95,7 +95,7 @@ hi VertSplit ctermfg=231 ctermbg=235 guifg=#fafafa guibg=#2a2a2a guisp=NONE cter
 hi Visual ctermfg=231 ctermbg=235 guifg=#fafafa guibg=#2a2a2a guisp=NONE cterm=NONE gui=NONE
 hi VisualNOS ctermfg=231 ctermbg=235 guifg=#fafafa guibg=#2a2a2a guisp=NONE cterm=NONE gui=NONE
 hi StatusLine ctermfg=231 ctermbg=235 guifg=#fafafa guibg=#2a2a2a guisp=NONE cterm=NONE,bold gui=NONE,bold
-hi StatusLineNC ctermfg=231 ctermbg=235 guifg=#fafafa guibg=#2a2a2a guisp=NONE cterm=NONE,bold gui=NONE,bold
+hi StatusLineNC ctermfg=231 ctermbg=235 guifg=#fafafa guibg=#2a2a2a guisp=NONE cterm=NONE gui=NONE
 hi StatusLineTerm ctermfg=231 ctermbg=235 guifg=#fafafa guibg=#2a2a2a guisp=NONE cterm=NONE,bold gui=NONE,bold
 hi StatusLineTermNC ctermfg=231 ctermbg=235 guifg=#fafafa guibg=#2a2a2a guisp=NONE cterm=NONE,bold gui=NONE,bold
 hi TabLineSel ctermfg=231 ctermbg=235 guifg=#fafafa guibg=#2a2a2a guisp=NONE cterm=NONE,bold gui=NONE,bold
@@ -103,7 +103,7 @@ hi Conceal ctermfg=NONE ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE
 hi Italic ctermfg=235 ctermbg=231 guifg=#2a2a2a guibg=#fafafa guisp=NONE cterm=NONE,italic gui=NONE,italic
 hi Underlined ctermfg=235 ctermbg=231 guifg=#2a2a2a guibg=#fafafa guisp=NONE cterm=NONE,underline gui=NONE,underline
 hi ColorColumn ctermfg=235 ctermbg=254 guifg=#2a2a2a guibg=#e4e4e4 guisp=NONE cterm=NONE gui=NONE
-hi Comment ctermfg=235 ctermbg=254 guifg=#2a2a2a guibg=#e4e4e4 guisp=NONE cterm=NONE gui=NONE
+hi Comment ctermfg=235 ctermbg=231 guifg=#2a2a2a guibg=#e4e4e4 guisp=NONE cterm=NONE,italic gui=NONE,italic
 hi CursorColumn ctermfg=235 ctermbg=254 guifg=#2a2a2a guibg=#e4e4e4 guisp=NONE cterm=NONE gui=NONE
 hi CursorLine ctermfg=235 ctermbg=254 guifg=#2a2a2a guibg=#e4e4e4 guisp=NONE cterm=NONE gui=NONE
 hi DiffChange ctermfg=235 ctermbg=254 guifg=#2a2a2a guibg=#e4e4e4 guisp=NONE cterm=NONE gui=NONE
